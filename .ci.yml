@@ -1,3 +1,5 @@
+before: "echo BEFORE ACTION"
+
 run:
   test: "cat foo"
   
